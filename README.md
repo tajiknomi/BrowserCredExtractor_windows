@@ -1,5 +1,5 @@
 ## NOTE:
-Starting with Chrome version 127 (released around July 2024), Google introduced Application-Bound (App-Bound) Encryption. So this utility will work on chrome < 127.
+Starting with Chrome version 127 (released around July 2024), Google introduced Application-Bound (App-Bound) Encryption. So this utility will work on chrome & edge upto v127.
 
 ## What is does?
 Extract stored credentials of various browsers (i.e. Chrome, Brave, Edge, Opera).
